@@ -7,7 +7,7 @@ const Footer = () => {
 <footer className="bg-darkBlue text-white py-10">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-6">
       <div className="max-w-28 ml-10">
-        <img src="../src/assets/shrinkit.png" alt="logo" />
+        <img src="/shrinkit.png" alt="logo" />
       </div>
         <div>
           <h4 className="text-lg font-bold mb-4">Features</h4>

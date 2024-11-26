@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="flex justify-between items-center px-10 py-4 bg-white relative">
       {/* Brand */}
       <div className="max-w-28 ml-10">
-        <img src="../src/assets/shrinkit.png" alt="logo" />
+        <img src="/shrinkit.png" alt="logo" />
       </div>
 
       {/* Hamburger Menu Icon */}

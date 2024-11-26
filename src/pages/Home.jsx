@@ -85,7 +85,7 @@ function Home() {
         </div>
         <div className='mb-10 md:mb-0'>
           <img
-            src='../src/assets/working_with_computer.png'
+            src='/working_with_computer.png'
             alt='illustration'
             className='max-w-full'
           />
