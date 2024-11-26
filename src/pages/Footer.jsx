@@ -4,7 +4,7 @@ const Footer = () => {
 
     return (
 
-<footer className="bg-darkBlue text-white py-10">
+<footer className="bg-darkBlue text-white py-10 px-5">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-6">
       <div className="max-w-28 ml-10">
         <img src="/shrinkit.png" alt="logo" />
